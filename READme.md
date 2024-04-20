@@ -1,1 +1,1 @@
-Aqui estão alguns dos projetos desenvolvidos no primeiro período
+Aqui estão alguns dos projetos desenvolvidos no primeiro período na linguagem C.
